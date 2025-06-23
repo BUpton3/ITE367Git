@@ -1,0 +1,4 @@
+__pychache__/
+app.db
+app/__pycache__/
+tests/__pycache__/
